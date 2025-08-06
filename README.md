@@ -15,4 +15,5 @@ This demonstrates basic usage of Python's `os` and `shutil` modules to perform f
 
 ---
 ### Output's Of Shell Script Task
-<img width="916" height="341" alt="image" src="https://github.com/user-attachments/assets/14654101-814d-4703-a263-e221e9d55c79" />
+<img width="1108" height="494" alt="image" src="https://github.com/user-attachments/assets/61f835a2-7b13-461c-b846-1c7aae9767eb" />
+
