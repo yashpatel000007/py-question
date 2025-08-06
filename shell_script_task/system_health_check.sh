@@ -5,7 +5,7 @@ DATE=$(date +%F)
 ps aux > process_log_${DATE}.log
 
 echo "Checking for high memory usage..."
-HIGH_MEM=$(ps aux --sort=-%mem | awk 'NR>1 && $4>30')
+HIGH_MEM=$(tasklist | awk 'NR>1 && $4>30')
 
 if [ -n "$HIGH_MEM" ]; then
     echo "⚠️ Warning: Processes using more than 30% memory found!"

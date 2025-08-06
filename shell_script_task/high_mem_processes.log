@@ -1,0 +1,12 @@
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+Secure System                  188 Services                   0     41,692 K
+Memory Compression            3068 Services                   0    815,896 K
+Creative Cloud.exe           17096 Console                    7     19,644 K
+Creative Cloud UI Helper.     4596 Console                    7      4,496 K
+Creative Cloud UI Helper.    20752 Console                    7        924 K
+Creative Cloud UI Helper.    14708 Console                    7      3,272 K
+Creative Cloud UI Helper.    18932 Console                    7     11,848 K
+Adobe Desktop Service.exe    12100 Console                    7     16,672 K
+Creative Cloud Helper.exe     1884 Console                    7      6,640 K
+Adobe Crash Processor.exe     4192 Console                    7      1,400 K
